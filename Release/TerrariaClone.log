@@ -1,1 +1,13 @@
-﻿  TerrariaClone.vcxproj -> D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\Release\TerrariaClone.exe
+﻿  block.cpp
+  main.cpp
+D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\src\main.cpp(104,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\src\main.cpp(115,58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\src\main.cpp(116,70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\src\main.cpp(203,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\src\main.cpp(204,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 20 functions (15.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TerrariaClone.vcxproj -> D:\CPP PROJECTS\TerreriaClone\TerrariaClone\TerrariaClone\Release\TerrariaClone.exe
